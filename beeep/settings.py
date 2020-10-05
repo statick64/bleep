@@ -40,6 +40,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
                 "localhost" ,
                 "beeep.pythonanywhere.com" ,
+                "bleep1.herokuapp.com "
                 '10.0.2.2'     
                 ]
 
